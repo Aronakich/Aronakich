@@ -11,4 +11,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-039BE5?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/aronakich)  
 Please write in Russian  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aronakich&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aronakich&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
