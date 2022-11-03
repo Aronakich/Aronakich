@@ -10,3 +10,5 @@
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=FFFFFF)](https://vk.com/dlaremme)
 [![Telegram](https://img.shields.io/badge/-Telegram-039BE5?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/aronakich)  
 Please write in Russian  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aronakich&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
