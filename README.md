@@ -2,7 +2,7 @@
 
 ## My name is Vlad, I'm from Russia.
 
-![Sublime Text](https://img.shields.io/badge/-Sublime_Text-424242?style=for-the-badge&logo=sublime-text&logoColor=F79202)
+![Thonny](https://img.shields.io/badge/-Thonny-424242?style=for-the-badge&logo=v&logoColor=F79202)
 ![Python](https://img.shields.io/badge/-Python-3C78A8?style=for-the-badge&logo=python&logoColor=F3D645)
 ![Python](https://img.shields.io/badge/-Photoshop-001D34?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF)
 
