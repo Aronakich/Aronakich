@@ -1,4 +1,3 @@
-## Меня зовут Владислав, я из России.
 ## My name is Vladislav, I'm from Russia.
 
 ### Contact
