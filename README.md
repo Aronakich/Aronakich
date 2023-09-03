@@ -1,6 +1,6 @@
 <div align="center">
   
-## My name is Vladislav, I'm from Russia 🇷🇺
+## My name is Vladislav, I'm from Russia
 
 ### Contact
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=FFFFFF)](https://vk.com/dlaremme)
