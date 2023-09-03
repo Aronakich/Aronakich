@@ -1,6 +1,5 @@
 <div align="center">
-
-# Hello!
+  
 ## My name is Vladislav, I'm from Russia
 
 ### Contact
