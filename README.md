@@ -4,7 +4,7 @@
 
 ### Contact
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=FFFFFF)](https://vk.com/dlaremme)
-[![Discord](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/invite/Ex64BKMrD6)
+[![Discord](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discordapp.com/users/978778882482274314)
 
 ### Information
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aronakich&show_icons=true&theme=github_dark)
